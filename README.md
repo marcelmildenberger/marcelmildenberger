@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/gtcXRjT/Black-Minimal-Motivation-Quote-Linked-In-Banner-2.png)](https://github.com/marcelmildenberger)
+[![MasterHead](https://i.ibb.co/y5Wz06v/Black-Minimal-Motivation-Quote-Linked-In-Banner-3.png)](https://github.com/marcelmildenberger)
 
 <h1 align="center">Hi 👋, I'm Marcel Mildenberger</h1>
 <h3 align="center">A passionate junior developer</h3>
