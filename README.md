@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript and React.js**
 
-- 📫 How to reach me **marcel.milde@outlook.de**
+- 📫 How to reach me **marcel.mildenberger@outlook.com**
 
 - ⚡ Fun fact, **My best buddy is my hedgehog Pluto 🦔**
 
