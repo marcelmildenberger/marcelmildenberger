@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **marcel.mildenberger@outlook.com**
 
-- ⚡ Fun fact, **My best buddy is my hedgehog Pluto 🦔**
+- ⚡ Fun fact, **my best buddy is my hedgehog Pluto 🦔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
