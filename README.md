@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelmildenberger&label=Profile%20views&color=0e75b6&style=flat" alt="marcelmildenberger" /> </p>
 
-- 🔭 I’m currently working on **Duelset Inc.**
+- 🔭 I’m currently working on **Duelset Inc.** and my **Master Thesis**
 
-- 🌱 I’m currently learning **fullstack Development with JavaScript**
+- 🌱 I’m currently learning **fullstack Development with JavaScript**, **CAP Java** and **Fiori Elements + Freestyle SAPUI5**
 
 - 👯 I’m looking to collaborate on **projects for a good cause**
 
-- 💬 Ask me about **JavaScript and React.js**
+- 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **marcel.mildenberger@outlook.com**
 
